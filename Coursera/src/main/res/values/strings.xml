@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coursera</string>
+    <string name="action_settings">Courses</string>
+    <string name="current_courses">Current</string>
+    <string name="past_courses">Past</string>
+    <string name="upcoming_courses">Upcoming</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_current">Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="current_courses_title">Current courses</string>
+    <string name="past_courses_title">Past courses</string>
+    <string name="upcoming_courses_title">Upcoming courses</string>
+    <string name="instructor">Instructor</string>
+    <string name="title">Title</string>
+    <string name="sessions">Sessions</string>
+    <string name="about">About the Course</string>
+</resources>

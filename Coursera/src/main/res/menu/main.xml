@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mirabellehegnet.coursera.MainActivity" >
+    
+    <item android:id="@+id/current_courses"
+        android:title="@string/current_courses"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/past_courses"
+        android:title="@string/past_courses"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/upcoming"
+        android:title="@string/upcoming_courses"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

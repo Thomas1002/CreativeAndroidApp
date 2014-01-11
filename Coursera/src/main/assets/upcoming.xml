@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course>
+        <university>University of Maryland, College Park</university>
+        <title>Programming Mobile Applications for Android Handheld Systems</title>
+        <instructor>Adam Porter</instructor>
+        <session>2014-01-21</session>
+        <duration>8</duration>
+    </course>
+    <course>
+        <university>Yale University</university>
+        <title>Financial Markets</title>
+        <description>An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise.</description>
+        <about>Financial institutions are a pillar of civilized society, supporting people in their productive ventures and managing the economic risks they take on. The workings of these institutions are important to comprehend if we are to predict their actions today and their evolution in the coming information age. The course strives to offer understanding of the theory of finance and its relation to the history, strengths and imperfections of such institutions as banking, insurance, securities, futures, and other derivatives markets, and the future of these institutions over the next century.</about>
+        <instructor>Bob Shiller</instructor>
+        <session>2014-02-17</session>
+        <duration>19</duration>
+    </course>
+</courses>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course>
+        <university>Princeton University</university>
+        <title>Networks: Friends, Money, and Bytes</title>
+        <instructor>Mung Chiang</instructor>
+        <session>2013-02-04</session>
+        <duration>19</duration>
+    </course>
+    <course>
+        <university>Georgia Institute of Technology</university>
+        <title>Computational Investing, Part I</title>
+        <instructor>Tucker Balch</instructor>
+        <session>2013-02-23</session>
+        <duration>9</duration>
+    </course>
+    <course>
+        <university>Vanderbilt University</university>
+        <title>Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds</title>
+        <instructor>Douglas C. Schmidt</instructor>
+        <session>2013-03-04</session>
+        <duration>10</duration>
+    </course>
+</courses>

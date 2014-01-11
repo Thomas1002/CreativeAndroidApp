@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.mirabellehegnet.coursera.CurrentActivity$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/title"
+        android:id="@+id/titleTextView"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        />
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:layout_below="@id/titleTextView"/>
+
+            <TextView
+                android:id="@+id/Instructors"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:text="@string/instructor"
+                android:layout_below="@id/descriptionTextView"/>
+
+
+    <TextView
+        android:id="@+id/instructorTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Instructors"
+        android:textSize="16dp"
+        android:paddingTop="8dp"
+        />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/instructorTextView"
+                android:id="@+id/university"
+                android:textSize="16dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"/>
+    <TextView
+        android:id="@+id/sessionsTextView"
+        android:text="@string/sessions"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/university"
+        android:paddingTop="8dp"
+        />
+
+    <TextView
+        android:id="@+id/sessionTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sessionsTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/durationTextView"
+        android:paddingTop="8dp"
+        android:textSize="16dp"
+        />
+
+
+    <TextView
+        android:id="@+id/durationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sessionsTextView"
+        android:paddingTop="8dp"
+        android:textSize="16dp"
+        />
+
+    <TextView
+        android:id="@+id/about"
+        android:text="@string/about"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/durationTextView"
+        android:paddingTop="8dp"
+
+        />
+
+    <TextView
+        android:id="@+id/aboutTextView"
+        android:text="..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/about"
+        android:paddingTop="8dp"
+        android:textSize="16dp"
+        />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

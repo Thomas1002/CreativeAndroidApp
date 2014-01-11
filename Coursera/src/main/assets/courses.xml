@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course>
+        <university>University of Illinois at Urbana-Champaign</university>
+        <title>Creative, Serious and Playful Science of Android Apps</title>
+        <description>This course introduces the fundamental computer science principles that power today’s apps. You will also learn to create your own Android app using Java and standard software development tools.</description>
+        <about>Note: The December 2013 offering of this course is 8 weeks of instruction with a 3-week break in the middle, for a total of 11 weeks.
+
+This course is a novice-friendly and delightful introduction to computer science and programming Android-apps for smart-phones and tablets. No prior programming knowledge is necessary. In this course you&apos;ll have fun learning to create an app for modern Android devices such as the Nexus tablet.
+
+You&apos;ll use the programming tools that Android software developers use and build a complete and useful app during this course. Along the way, we&apos;ll introduce fundamental computer science principles and programming ideas that power today’s smart-phone and tablet apps.
+
+A reasonably modern and powerful Linux, Windows or Mac-OSX computer is required. A modern Android tablet or phone (such as the approximately USD$199 Nexus 7)  is useful but not-required because you’ll be able to use a virtual device that runs on your computer.</about>
+        <instructor>Lawrence Angrave</instructor>
+        <session>2013-12-02</session>
+        <duration>11</duration>
+    </course>
+    <course>
+        <university>University of Maryland, College Park</university>
+        <title>Programming Mobile Applications for Android Handheld Systems</title>
+        <description>Introduction to the design and implementation of applications for handheld systems, such as smartphones and tablets, running the Android Platform.</description>
+        <about>Handheld systems, such as smartphones and tablets are now the most common way for people to access and interact with computing services. The demand for application development skills is therefore growing at a breathtaking pace. These skills, however, are multi-­‐ faceted, requiring students to master computer science and engineering principles, to learn the details of specific mobile application platforms, and to design artistic and engaging user interfaces that respond to how, where and why handheld applications are used.
+
+This course will cover the fundamental programming principles, software architecture and user experience considerations underlying handheld software applications and their development environments. To bring these concepts alive, the course will involve in-­‐depth, hands-­‐on examples, implemented in the Android Platform, the fastest growing segment of the handheld system user base. Students will apply these teachings, also using the Android Platform, in laboratory projects and in a large-­‐scale semester project.
+
+Note: This course is part of a trans-institution course sequence.
+
+This course and another, led by Drs. Douglas Schmidt and Jules White of Vanderbilt University, have been designed to complement each other.  Therefore, some of the programming assignments and the course project for both courses will be coordinated. This course focuses on handheld systems and the design of user-facing applications, and will be taught first. The Vanderbilt University course, Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices, will focus on systems programming topics, such as operating system and background processing, networking, and computing cloud integration, The Vanderbilt University course is currently scheduled to be taught in late Spring 2014.
+
+Nevertheless, each of these courses stands alone. Students are not required to take both. Those who do, however, will gain a much more detailed, end-to-end understanding of handheld systems and their applications.</about>
+        <instructor>Adam Porter</instructor>
+        <session>2014-01-21</session>
+        <duration>8</duration>
+    </course>
+    <course>
+        <university>University of Illinois at Urbana-Champaign</university>
+        <title>Heterogeneous Parallel Programming</title>
+        <description>This course introduces concepts, languages, techniques, and patterns for programming heterogeneous, massively parallel processors. Its contents and structure have been significantly revised based on the experience gained from its initial offering in 2012. It covers heterogeneous computing architectures, data-parallel programming models, techniques for memory bandwidth management, and parallel algorithm patterns.</description>
+        <about>All computing systems, from mobile to supercomputers, are becoming heterogeneous, massively parallel computers for higher power efficiency and computation throughput. While the computing community is racing to build tools and libraries to ease the use of these systems, effective and confident use of these systems will always require knowledge about low-level programming in these systems. This course is designed for students to learn the essence of low-level programming interfaces and how to use these interfaces to achieve application goals. CUDA C, with its good balance between user control and verboseness, will serve as the teaching vehicle for the first half of the course. Students will then extend their learning into closely related programming interfaces such as OpenCL, OpenACC, and C++AMP.
+
+The course is unique in that it is application oriented and only introduces the necessary underlying computer science and computer engineering knowledge for understanding. It covers the concept of data parallel execution models, memory models for managing locality, tiling techniques for reducing bandwidth consumption, parallel algorithm patterns, overlapping computation with communication, and a variety of heterogeneous parallel programming interfaces. The concepts learned in this course form a strong foundation for learning other types of parallel programming systems.</about>
+        <instructor>Wen-mei W. Hwu</instructor>
+        <session>2014-01-06</session>
+        <duration>9</duration>
+    </course>
+    <course>
+        <university>Georgia Institute of Technology</university>
+        <title>Computational Investing, Part I</title>
+        <description>Find out how modern electronic markets work, why stock prices change in the ways they do, and how computation can help our understanding of them.  Build algorithms and visualizations to inform investing practice.</description>
+        <about>Why do the prices of some companies’ stocks seem to move up and down together while others move separately? What does portfolio “diversification” really mean and how important is it? What should the price of a stock be? How can we discover and exploit the relationships between equity prices automatically? We’ll examine these questions, and others, from a computational point of view. You will learn many of the principles and algorithms hedge funds and investment professionals use to maximize return and reduce risk in equity portfolios.
+
+We start with a tour of the mathematics and statistics that underlie equity price changes, and the relationships between different groups of equities. We’ll review the most important economic theories of investing and how to create programs that take advantage of them. We’ll look at the data needed to do this, and how to manipulate it effectively. Take a look at the course syllabus here.</about>
+        <instructor>Tucker Balch</instructor>
+        <session>2013-02-23</session>
+        <duration>9</duration>
+    </course>
+    <course>
+        <university>Vanderbilt University</university>
+        <title>Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds</title>
+        <description>In this course we will learn how to apply patterns, pattern languages, and frameworks to alleviate the complexity of developing concurrent and networked software for mobile devices running Android that connect to popular cloud computing platforms, such as Google App Engine.</description>
+        <about>The confluence of multi-core and distributed-core processors, inexpensive mass storage, ubiquitous wireless connectivity, and commodity software platforms is driving the need for software engineers and programmers who understand how to develop concurrent and networked software for mobile devices that connect to cloud computing platforms. Despite many improvements in processors, storage, and networks, however, developing quality software on-time and on-budget remains hard. Moreover, developing high quality reusable concurrent and networked software apps and services is even harder.  The principles, methods, and skills required to develop such software are best learned by attaining mastery of patterns, pattern languages, and frameworks.
+
+A pattern describes a reusable solution to a common problem that arises within a particular context. When related patterns are woven together they form a pattern language that defines a vocabulary and a process for the orderly resolution of software development problems. A framework is an integrated set of components that collaborate to provide a reusable architecture for a family of related apps or services.  Frameworks can also be viewed as concrete realizations of pattern languages that facilitate direct reuse of detailed design and source code.</about>
+        <instructor>Douglas C. Schmidt</instructor>
+        <session>2013-03-04</session>
+        <duration>10</duration>
+    </course>
+    <course>
+        <university>Princeton University</university>
+        <title>Networks: Friends, Money, and Bytes</title>
+        <description>A course driven by 20 practical questions about wireless, web, and the Internet, about how products from companies like Apple, Google, Facebook, Netflix, Amazon, Ericsson, HP, Skype and AT&amp;T work.</description>
+        <about>You pick up your iPhone while waiting in line at a coffee shop. You google a not-so-famous actor, get linked to a Wikipedia entry listing his recent movies and popular YouTube clips of several of them. You check out user reviews on Amazon and pick one, download that movie on BitTorrent or stream that in Netflix. But suddenly the WiFi logo on your phone is gone and you&apos;re on 3G. Video quality starts to degrade, but you don&apos;t know if it&apos;s the server getting crowded or the Internet is congested somewhere. In any case, it costs you $10 per Gigabyte, and you decide to stop watching the movie, and instead multitask between sending tweets and calling your friend on Skype, while songs stream from iCloud to your phone. You&apos;re happy with the call quality, but get a little irritated when you see there&apos;re no new followers on Twitter. You may wonder how they all kind of work, and why sometimes they don&apos;t. Take a look at the list of 20 questions below. Each question is selected not just for its relevance to our daily lives, but also for the core concepts in the field of networking illustrated by its answers. This course is about formulating and answering some of these 20 questions.</about>
+        <instructor>Mung Chiang</instructor>
+        <session>2013-02-04</session>
+        <duration>19</duration>
+    </course>
+    <course>
+        <university>Yale University</university>
+        <title>Financial Markets</title>
+        <description>An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise.</description>
+        <about>Financial institutions are a pillar of civilized society, supporting people in their productive ventures and managing the economic risks they take on. The workings of these institutions are important to comprehend if we are to predict their actions today and their evolution in the coming information age. The course strives to offer understanding of the theory of finance and its relation to the history, strengths and imperfections of such institutions as banking, insurance, securities, futures, and other derivatives markets, and the future of these institutions over the next century.</about>
+        <instructor>Bob Shiller</instructor>
+        <session>2014-02-17</session>
+        <duration>19</duration>
+    </course>
+</courses>
